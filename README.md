@@ -56,4 +56,4 @@ Replace this placeholder with a screenshot of the completed page.
 
 ## Live demo
 
-[[Add live demo URL here](https://synent-task2-landingpage-ubaidullah.vercel.app/)](#)
+https://synent-task2-landingpage-ubaidullah.vercel.app/
