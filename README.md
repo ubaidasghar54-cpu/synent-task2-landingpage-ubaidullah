@@ -50,7 +50,8 @@ Open `index.html` in a web browser. No package installation or build step is req
 
 ## Screenshot
 
-![Landing page screenshot placeholder](docs/screenshot-placeholder.png)
+<img width="1598" height="786" alt="image" src="https://github.com/user-attachments/assets/61bc40f9-ddd6-4a12-804f-34f1acdfa23e" />
+
 
 Replace this placeholder with a screenshot of the completed page.
 
