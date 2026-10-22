@@ -34,16 +34,14 @@ No JavaScript, external font requests, or CSS frameworks are used. Native radio 
 
 ```text
 index.html
-css/
-  style.css
-image/
-  images.jfif
-  images (1).jfif
-  images (2).jfif
-  images (3).jfif
+style.css
+images.jfif
+images (1).jfif
+images (2).jfif
+images (3).jfif
 ```
 
-The product photos are stored in `image/`. The hero uses the Shadow Black photo, and the configuration selector displays the photo matching the selected color.
+All site files are in the project root. The hero uses the Shadow Black photo, and the configuration selector displays the photo matching the selected color.
 
 ## How to run
 
